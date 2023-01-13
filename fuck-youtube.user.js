@@ -4,8 +4,9 @@
 // @match       https://www.youtube.com/*
 // @exclude     https://www.youtube.com/watch*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      ZenXavier@gmail.com
+// @homepage    https://github.com/zenxavier/fuck-youtube
 // @description Fucks YouTube - Disable auto-play on everything but the "https://www.youtube.com/watch?*" URL and turns off auto-looping of YouTube shorts
 // ==/UserScript==
 
